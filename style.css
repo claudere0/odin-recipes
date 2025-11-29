@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.card {
+    margin: 40% auto;
+    width: 50%;
+    border: 2px solid black;;
+}
+li {
+    list-style-type: none;
+}
